@@ -6,5 +6,11 @@
   "repository": "ssh://git@github.com/ayatk/gitlab-actions.git",
   "author": "ayatk <git@ayatk.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
 }
