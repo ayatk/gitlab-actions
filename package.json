@@ -1,0 +1,10 @@
+{
+  "name": "gitlab-actions",
+  "version": "1.0.0",
+  "description": "gitlab actions",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/ayatk/gitlab-actions.git",
+  "author": "ayatk <git@ayatk.com>",
+  "license": "MIT",
+  "private": true
+}
